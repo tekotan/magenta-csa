@@ -18,3 +18,11 @@ python 3.8
 tensorflow==2.4.0
 magenta==2.1.3
 ~~~~
+
+## Credits
+
+[Magenta Github](https://github.com/magenta/magenta "Title")
+
+[Tensorflow Documentation](https://tensorflow.org "Title")
+
+[Magenta Documentation](https://magenta.tensorflow.org "Title")
