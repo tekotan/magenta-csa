@@ -10,6 +10,7 @@ class MusicVae:
     """
     Author: Tanish and Akshit
     Last Modified: 02/02/21
+    Version: 1.2
     Class to wrap the music vae trained from magenta
     """
     def __init__(self):

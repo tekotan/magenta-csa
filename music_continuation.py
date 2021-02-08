@@ -12,6 +12,7 @@ class MusicContinue:
     """
     Author: Tanish and Jenny
     Last Modified: 02/01/21
+    Version: 2.1
     Class to wrap the sequence model from Magenta to continue music sequences
     """
     def __init__(self):
